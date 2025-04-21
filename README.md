@@ -68,15 +68,5 @@ The raw data consisted of over 23,000 full chat conversations between users and 
 - 📎 Cluster assignments per question
 - 📎 UMAP plots and silhouette/inertia scores
 
----
 
-## 📄 License
-
-MIT License – feel free to reuse with attribution.
-
----
-
-## 🤝 Contributing
-
-Pull requests and suggestions are welcome! Feel free to fork the repo or open an issue.
 
